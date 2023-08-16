@@ -29,7 +29,23 @@ publist = {
     "proceeding": {
         "file" : "markdown_generator/proceedings.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "In ",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+        
+    },
+    "book": {
+        "file" : "markdown_generator/books.bib",
+        "venuekey": "title",
+        "venue-pretext": "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+        
+    },
+    "chapter": {
+        "file" : "markdown_generator/chapters.bib",
+        "venuekey": "booktitle",
+        "venue-pretext": "In ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
@@ -66,7 +82,6 @@ for pubsource in publist:
         pub_day = "01"
         
         b = bibdata.entries[bib_id].fields
-        
         try:
             pub_year = f'{b["year"]}'
 
@@ -84,10 +99,10 @@ for pubsource in publist:
                 pub_day = str(b["day"])
 
                 
-            pub_date = pub_year+"-"+pub_month+"-"+pub_day
+            pub_date = pub_year + "-" + pub_month + "-" + pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
-            clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
+            clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-").replace("textendash", "-")    
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
             url_slug = url_slug.replace("--","-")
@@ -97,32 +112,59 @@ for pubsource in publist:
 
             #Build Citation from text
             citation = ""
-
+            
             #citation authors - todo - add highlighting for primary author?
-            for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
-
+            try:
+                for author in bibdata.entries[bib_id].persons["author"]:
+                    citation = citation + " " + author.first_names[0] + " " + author.last_names[0].replace("{", "").replace("}","") + ", "
+            except:
+                for editor in bibdata.entries[bib_id].persons["editor"]:
+                    citation = citation + " " + editor.first_names[0] + " " + editor.last_names[0].replace("{", "").replace("}","") + ", "
+            
+            citation = citation[:-2] + ". " + pub_year + ". "
+            
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            if pubsource != "book":
+                citation = citation + "\"" + b["title"].replace("{", "").replace("}","").replace("\\","").replace("textendash", "-") + ".\""
 
             #add venue logic depending on citation type
-            venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
-
-            citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            venue = publist[pubsource]["venue-pretext"] + b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            citation = citation + " <i>" + venue + "</i>"
+            
+            if pubsource == "chapter":
+                citation = citation + ", edited by "
+                for editor in bibdata.entries[bib_id].persons["editor"]:
+                    citation = citation + " " + editor.first_names[0] + " " + editor.last_names[0].replace("{", "").replace("}","") + ", "
+                citation = citation[:-2]
+            
+            if "volume" in b.keys():
+                citation = citation + " " + b["volume"]
+                
+            if "number" in b.keys():
+                citation = citation + "(" + b["number"] + ")"
+            
+            if "pages" in b.keys():
+                citation = citation + ", " + b["pages"]
+            
+            if "publisher" in b.keys():
+                citation = citation + ". " + b["publisher"].replace("{", "").replace("}","")
+                
+            
+            citation = citation + "."
 
             
             ## YAML variables
-            md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
+            md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","").replace("textendash", "-")) + '"\n'
             
-            md += """collection: """ +  publist[pubsource]["collection"]["name"]
+            md += """collection: """ + publist[pubsource]["collection"]["name"]
 
-            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"] + html_filename
             
             note = False
-            if "note" in b.keys():
-                if len(str(b["note"])) > 5:
-                    md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
+            if "abstract" in b.keys():
+                clean_abstract = b["abstract"].replace("\\textendash{}", "-").replace("\\textemdash","-").replace("`","'").replace("~"," ")    
+                if len(str(b["abstract"])) > 5:
+                    md += "\nexcerpt: '" + html_escape(clean_abstract[0:300]) + "...'"
                     note = True
 
             md += "\ndate: " + str(pub_date) 
@@ -142,10 +184,10 @@ for pubsource in publist:
             
             ## Markdown description for individual page
             if note:
-                md += "\n" + html_escape(b["note"]) + "\n"
+                md += "\n" + html_escape(clean_abstract) + "\n"
 
             if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+                md += "\n[Access here](" + b["url"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
