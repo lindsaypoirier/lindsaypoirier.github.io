@@ -2,7 +2,7 @@
 title: "Introduction to Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-teaching-2
+permalink: /teaching/2022-fall-teaching-1
 venue: "Smith College, Statistical and Data Sciences"
 date: 2022-01-01
 location: "Northampton, MA, USA"
