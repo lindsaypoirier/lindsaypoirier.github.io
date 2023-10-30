@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Smith College, Statistical and Data Sciences"
-date: 2022-01-01
+date: 2022-09-01
 location: "Northampton, MA, USA"
 excerpt: "Data science involves applying a set of strategies to transform a recorded set of values into something from which we can glean knowledge and insight. This course introduces students to concepts and methods from the field of data science, along with how to apply them in R."
 ---

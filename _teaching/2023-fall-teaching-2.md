@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-2
 venue: "Smith College, Statistical and Data Sciences"
-date: 2022-09-01
+date: 2023-09-01
 location: "Northampton, MA, USA"
 excerpt: "This course introduces the theory and practice of data ethnography, demonstrating how qualitative data collection and analysis can be used to study of data settings and artifacts."
 ---
