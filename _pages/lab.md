@@ -34,12 +34,6 @@ My name is Juniper Huang, and I have been a part of this research since the Fall
 
 ![Image of five students in lab Spring '22](../images/spring22-lab-members.jpg "L-R: Nicole Tresvalles, Juniper Huang, Sena Amuzu, Lindsay Poirier, Emarie de la Nuez, Quinn White")
 
-# ## Blog
-# 
-# {% for post in site.posts reversed %}
-#   {% include archive-single.html %}
-# {% endfor %}
-
 ## Lab Book
 
 See our lab protocols [here](/lab-book/).
