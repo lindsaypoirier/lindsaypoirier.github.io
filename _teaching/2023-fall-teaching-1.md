@@ -7,6 +7,7 @@ venue: "Smith College, Statistical and Data Sciences"
 date: 2023-09-01
 location: "Northampton, MA, USA"
 excerpt: "Data is a powerful tool for making claims - claims that can advance equity and social justice, as well as claims that can misrepresent civic issues and marginalize communities. This course examines how power operates in and through the production, analysis, and presentation of data, while helping students develop skill in approaching data science work in more ethical and equitable ways."
+image: ../images/sds189-logo.png
 ---
 
 Data is a powerful tool for making claims - claims that can advance equity and social justice, as well as claims that can misrepresent civic issues and marginalize communities. This course examines how power operates in and through the production, analysis, and presentation of data, while helping students develop skill in approaching data science work in more ethical and equitable ways. 
