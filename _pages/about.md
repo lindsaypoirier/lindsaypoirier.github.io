@@ -14,3 +14,5 @@ To help advance this research, I direct a [Data Ethnography and Advocacy Lab (DE
 
 I teach courses at Smith College that investigate data injustices and the social contexts of data production, along with courses that introduce data science concepts and methods. 
 
+I serve as the Lead Platform Architect for the Platform for Experimental Collaborative Ethnography - a research software distribution that now supports hundreds of ethnographers and several international research projects. 
+

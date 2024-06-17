@@ -49,8 +49,8 @@ We are thrilled to invite new members to the lab. When joining the lab, you shou
 5. Create a GitHub account, and send Lindsay your GitHub handle. 
 6. Create a Zotero account [here](https://www.zotero.org/user/register/) and install both Zotero and Zotero Connector here [here](https://www.zotero.org/download/). Send Lindsay or the Lead Mentor your Zotero username so they can add you to our shared Zotero account. Then watch [this video](https://www.youtube.com/watch?v=JG7Uq_JFDzE), introducing Zotero.
 7. Ask Lindsay to be added to the shared Google Drive. See if you can find your work folder for this semester.  
-8. Sign-up for a Dedoose account [here](https://www.dedoose.com/signup). Then install Dedoose Desktop Application [here](https://www.dedoose.com/resources/articledetail/dedoose-desktop-app). Ask Lindsay or the Lead Mentor to add you to our shared Dedoose project.
-9. Complete CITI Training [here](https://www.smith.edu/academics/institutional-review-board/application-process) (Navigate to Required Online Ethics Training and follow instructions). You should complete the Basic Human Subjects - Social and Behavioral Course. Send me a copy of your certificate upon completion. 
+8. Complete CITI Training [here](https://www.smith.edu/academics/institutional-review-board/application-process) (Navigate to Required Online Ethics Training and follow instructions). You should complete the Basic Human Subjects - Social and Behavioral Course. Send me a copy of your certificate upon completion. 
+9. Send Lindsay a headshot and short biography so that you can be added to the Lab website.
 
 ### Faculty Responsibilities
 
