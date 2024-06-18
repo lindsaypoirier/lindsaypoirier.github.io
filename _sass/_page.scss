@@ -399,3 +399,13 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   custom
+   ========================================================================== */
+   
+.thumb img{
+  
+  border-radius: 50%;
+  border:1px solid black;
+}
