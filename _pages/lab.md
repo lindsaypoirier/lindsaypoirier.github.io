@@ -11,15 +11,15 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 ## Lab Members
 
-### Juniper Huang
+### Nicole Choi
 
-<!--<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
-<img src="../images/juniper.jpg" alt="Juniper Huang" style="border-radius: 50%;">
+<img src="../images/nicole.jpeg" alt="Nicole Choi" style="border-radius: 50%;">
 
 </div>
 
-My name is Juniper Huang, and I have been a part of this research since the Fall of 2021 as a Critical Data Analyst. I am currently a second-year Statistical Data Science major at Smith College. I am passionate about metadata and the many different factors that affect a dataset. Outside of research, I am the Head of New Students for Talbot House, I am part of the Pan-Asian in Action e-board, and I am an active member of the Statistical Data Science Coalition of Color.-->
+Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies at Smith College. She is also a professionally fluent Korean speaker with interests spanning qualitative analysis, foreign and domestic policy analysis, and language studies.
 
 ### Alumni
 
