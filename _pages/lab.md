@@ -13,26 +13,30 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 ### Juniper Huang
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+<!--<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
 <img src="../images/juniper.jpg" alt="Juniper Huang" style="border-radius: 50%;">
 
 </div>
 
-My name is Juniper Huang, and I have been a part of this research since the Fall of 2021 as a Critical Data Analyst. I am currently a second-year Statistical Data Science major at Smith College. I am passionate about metadata and the many different factors that affect a dataset. Outside of research, I am the Head of New Students for Talbot House, I am part of the Pan-Asian in Action e-board, and I am an active member of the Statistical Data Science Coalition of Color.
+My name is Juniper Huang, and I have been a part of this research since the Fall of 2021 as a Critical Data Analyst. I am currently a second-year Statistical Data Science major at Smith College. I am passionate about metadata and the many different factors that affect a dataset. Outside of research, I am the Head of New Students for Talbot House, I am part of the Pan-Asian in Action e-board, and I am an active member of the Statistical Data Science Coalition of Color.-->
 
 ### Alumni
 
 * Sena Amuzu (Spring '22)
 * Anika Arifin (Fall '22 - Spring '23)
 * Emarie de la Nuez (Spring '22)
+* Sophia Hillard (Fall '25)
+* Juniper Huang (Fall '24 - Spring '25)
+* Gabrielle Kraft (Fall '25)
 * Naomi Liftman (Summer '22 - Spring '23)
+* Casey MacGibbon (Fall '24 - Spring '25)
 * Mags McLaughlin (Fall '22)
 * Nicole Tresvalles (Spring '22)
 * Quinn White (Spring '22)
 * Ziqi Zhen (Fall '22 - Spring '23)
 
-![Image of five students in lab Spring '22](../images/spring22-lab-members.jpg "L-R: Nicole Tresvalles, Juniper Huang, Sena Amuzu, Lindsay Poirier, Emarie de la Nuez, Quinn White")
+<!--![Image of five students in lab Spring '22](../images/spring22-lab-members.jpg "L-R: Nicole Tresvalles, Juniper Huang, Sena Amuzu, Lindsay Poirier, Emarie de la Nuez, Quinn White")-->
 
 ## Lab Book
 
