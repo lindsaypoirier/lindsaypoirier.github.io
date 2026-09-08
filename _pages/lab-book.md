@@ -43,7 +43,7 @@ In this group, we are committed to presenting our work with honesty and context.
 We are thrilled to invite new members to the lab. When joining the lab, you should do the following:
 
 1. Read this lab book. 
-2. Email Lindsay or the Lead Mentor and ask to be added to our Slack Workspace. Check out [this tutorial](https://slack.com/resources/using-slack/top-5-tips-for-getting-started-in-slack) if you are new to Slack.
+2. Email Lindsay and ask to be added to our Slack Workspace. Check out [this tutorial](https://slack.com/resources/using-slack/top-5-tips-for-getting-started-in-slack) if you are new to Slack.
 3. Join the #onboarding Slack channel, and follow the instructions in Lindsay's October 4, 2021 post. 
 4. Join Slack channels related to the projects you will be working on and read recent correspondence in these channels. Configure your Slack notifications in these channels.
 5. Create a GitHub account, and send Lindsay your GitHub handle. 
@@ -87,37 +87,9 @@ Note-taking will be a shared rotating responsibility. We will maintain a spreads
 
 #### Lab Manager
 
-* Schedules meetings and sends out meeting reminders
-* Takes attendance at all meetings 
-* Point person for attendance
-* Archives zoom recordings
-* Manages assets
-* Manages Kanban
 
 #### Documentation Manager
 
-* Responsible for keeping Google Drive organized
-* Responsible for ensuring that each GitHub repo meets requirements outlined in the Documentation Guidelines
-* Maintains to-do lists on our documentation
-
-#### Web Manager
-
-* Responsible for keeping the website up-to-date
-* Maintains a blog publishing schedule,
-* Collects and edits blog posts from collaborative teams,
-* Collaborates with social media manager
-
-#### Social Media Manager
-
-* Responsible for finding relevant organizations to network with and follow
-* Responsible for posting news stories and videos relevant to our work
-* Responsible for advertising blog posts on social media
-
-#### Lead Mentor
-
-* Point person for new members
-* Checks in with new members regularly 
-* Answers or directs questions in the #newbies Slack channel
 
 #### Event Manager
 
@@ -125,6 +97,8 @@ Note-taking will be a shared rotating responsibility. We will maintain a spreads
 * Main point of contact for guest speakers (managing scheduling, setting up meeting times etc) 
 * Plans end of semester social event
 * Maintains list of lab birthdays and sends birthday cards from the lab
+
+#### Stakeholder Liaison
 
 ### Exiting the Lab
 
