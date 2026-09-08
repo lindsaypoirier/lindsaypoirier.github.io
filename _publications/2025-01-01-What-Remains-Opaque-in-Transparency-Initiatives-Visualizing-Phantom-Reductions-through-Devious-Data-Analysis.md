@@ -1,0 +1,13 @@
+---
+title: "What Remains Opaque in Transparency Initiatives: Visualizing Phantom Reductions through Devious Data Analysis"
+collection: publications
+permalink: /publication/2025-01-01-What-Remains-Opaque-in-Transparency-Initiatives-Visualizing-Phantom-Reductions-through-Devious-Data-Analysis
+excerpt: 'This article introduces what we call ‘devious data analysis’ a form of data analysis that leverages rather conventional analysis and visualization techniques to undercut an assumption of the data’s objectivity and ‘truthiness.’ Rather than conveying unequivocal truths, the results produced through ‘...'
+date: 2025-01-01
+venue: 'In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency'
+paperurl: 'https://dl.acm.org/doi/10.1145/3715275.3732114'
+citation: ' Lindsay Poirier,  Juniper Huang,  Casey MacGibbon. 2025. &quot;What Remains Opaque in Transparency Initiatives: Visualizing Phantom Reductions through Devious Data Analysis.&quot; <i>In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency</i>, 1703--1714. Association for Computing Machinery.'
+---
+This article introduces what we call ‘devious data analysis’ a form of data analysis that leverages rather conventional analysis and visualization techniques to undercut an assumption of the data’s objectivity and ‘truthiness.’ Rather than conveying unequivocal truths, the results produced through ‘devious data analysis’ raise questions about the history and context of the represented data. We apply the ‘devious data analysis’ framework in order to study ‘phantom reductions,’ in three U.S. government datasets where institutions self-disclose data on their activities and business practices for the purposes of transparency. First defined by the National Wildlife Federation in 1990, phantom reductions refer to significant, unexplained drops in something an institution is reporting on from one time period to the next. In order to illustrate these shifts in data reporting, we present a methodology for exploring and visualizing shifts in how institutions report values into certain categories over time. The paper makes two contributions. First, in introducing ‘devious data analysis,’ the article offers a methodological framework for exposing and facilitating conversations around the socio-technical dimensions of datasets. Second, by drawing attention to what often remains opaque in transparency initiatives (the judgments and discretion that shape the data’s constitution), the article furthers understanding of how transparency operates, along with the social consequences of treating it uncritically.
+
+[Access here](https://dl.acm.org/doi/10.1145/3715275.3732114){:target="_blank"}
