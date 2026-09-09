@@ -21,6 +21,17 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies at Smith College. She is also a professionally fluent Korean speaker with interests spanning qualitative analysis, foreign and domestic policy analysis, and language studies.
 
+### Sally Geoghegan
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/sally.jpg" alt="Sally Geoghegan" style="border-radius: 50%;">
+
+</div>
+
+Sally is a junior majoring in English with a minor in Statistical & Data Sciences. She is interested in using data and storytelling to effect social change.
+
+
 ### Alumni
 
 * Sena Amuzu (Spring '22)
