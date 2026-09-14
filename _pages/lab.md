@@ -31,6 +31,26 @@ Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies
 
 Sally is a junior majoring in English with a minor in Statistical & Data Sciences. She is interested in using data and storytelling to effect social change.
 
+### Emma Larsen
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/emma.jpg" alt="Emma Larsen" style="border-radius: 50%;">
+
+</div>
+
+Emma is a senior Environmental Science & Policy major and Applied Statistics minor. She is interested in the intersection of environmental justice, policy, and data science, with a focus on how data can be used to support policy action that uplifts communities.
+
+### Mercer
+
+<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+
+<img src="../images/mercer.jpg" alt="Mercer" style="border-radius: 50%;">
+
+</div>
+
+Mercer is a Junior at Smith College studying Mathematical Statistics. They are drawn to the processes involved in data analysis and the broader implications of how that information is presented.
+
 
 ### Alumni
 
