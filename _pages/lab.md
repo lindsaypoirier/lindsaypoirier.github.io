@@ -13,7 +13,7 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 ### Nicole Choi
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 20%; aspect-ratio: 1 / 1; object-fit: cover; float: left; margin-right: 10px;  margin-bottom:10px;">
 
 <img src="../images/nicole.jpeg" alt="Nicole Choi" style="border-radius: 50%;">
 
@@ -23,7 +23,7 @@ Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies
 
 ### Sally Geoghegan
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 20%; aspect-ratio: 1 / 1; object-fit: cover; float: left; margin-right: 10px; margin-bottom:10px;">
 
 <img src="../images/sally.jpg" alt="Sally Geoghegan" style="border-radius: 50%;">
 
@@ -33,7 +33,7 @@ Sally is a junior majoring in English with a minor in Statistical & Data Science
 
 ### Emma Larsen
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 20%; aspect-ratio: 1 / 1; object-fit: cover; float: left; margin-right: 10px; margin-bottom:10px;">
 
 <img src="../images/emma.jpg" alt="Emma Larsen" style="border-radius: 50%;">
 
@@ -43,7 +43,7 @@ Emma is a senior Environmental Science & Policy major and Applied Statistics min
 
 ### Mercer
 
-<div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
+<div style="max-width: 20%; aspect-ratio: 1 / 1; object-fit: cover; float: left; margin-right: 10px; margin-bottom:10px;">
 
 <img src="../images/mercer.jpg" alt="Mercer" style="border-radius: 50%;">
 
