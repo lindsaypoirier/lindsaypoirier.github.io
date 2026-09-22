@@ -21,7 +21,7 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies at Smith College. She is also a professionally fluent Korean speaker with interests spanning qualitative analysis, foreign and domestic policy analysis, and language studies.
 
-<div clear: both;"></div>
+<div style="clear: both;"></div>
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
@@ -34,7 +34,7 @@ Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies
 
 Sally is a junior majoring in English with a minor in Statistical & Data Sciences. She is interested in using data and storytelling to effect social change.
 
-<div clear: both;"></div>
+<div style="clear: both;"></div>
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
@@ -46,7 +46,7 @@ Sally is a junior majoring in English with a minor in Statistical & Data Science
 
 Emma is a senior Environmental Science & Policy major and Applied Statistics minor. She is interested in the intersection of environmental justice, policy, and data science, with a focus on how data can be used to support policy action that uplifts communities.
 
-<div clear: both;"></div>
+<div style="clear: both;"></div>
 
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
@@ -59,7 +59,7 @@ Emma is a senior Environmental Science & Policy major and Applied Statistics min
 
 Mercer is a Junior at Smith College studying Mathematical Statistics. They are drawn to the processes involved in data analysis and the broader implications of how that information is presented.
 
-<div clear: both;"></div>
+<div style="clear: both;"></div>
 
 ### Alumni
 
