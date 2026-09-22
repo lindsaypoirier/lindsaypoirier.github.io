@@ -11,17 +11,17 @@ The Data Ethnography and Advocacy Lab is a multi-disciplinary research group inv
 
 ## Lab Members
 
-### Nicole Choi
-
 <div style="max-width: 20%; float: left; margin-right: 10px;  margin-bottom:10px;">
 
 <img src="../images/nicole.jpeg" alt="Nicole Choi" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover;">
 
 </div>
 
+### Nicole Choi
+
 Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies at Smith College. She is also a professionally fluent Korean speaker with interests spanning qualitative analysis, foreign and domestic policy analysis, and language studies.
 
-### Sally Geoghegan
+<div clear: both;"></div>
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
@@ -29,9 +29,12 @@ Nicole is a senior studying Statistical & Data Sciences and Russian Area Studies
 
 </div>
 
+
+### Sally Geoghegan
+
 Sally is a junior majoring in English with a minor in Statistical & Data Sciences. She is interested in using data and storytelling to effect social change.
 
-### Emma Larsen
+<div clear: both;"></div>
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
@@ -39,9 +42,12 @@ Sally is a junior majoring in English with a minor in Statistical & Data Science
 
 </div>
 
+### Emma Larsen
+
 Emma is a senior Environmental Science & Policy major and Applied Statistics minor. She is interested in the intersection of environmental justice, policy, and data science, with a focus on how data can be used to support policy action that uplifts communities.
 
-### Mercer
+<div clear: both;"></div>
+
 
 <div style="max-width: 20%; float: left; margin-right: 10px; margin-bottom:10px;">
 
@@ -49,8 +55,11 @@ Emma is a senior Environmental Science & Policy major and Applied Statistics min
 
 </div>
 
+### Mercer
+
 Mercer is a Junior at Smith College studying Mathematical Statistics. They are drawn to the processes involved in data analysis and the broader implications of how that information is presented.
 
+<div clear: both;"></div>
 
 ### Alumni
 
